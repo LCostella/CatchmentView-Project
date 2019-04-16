@@ -27,7 +27,7 @@ After download the project, replace the forceNetwork.js(networkD3\htmlwidgets)) 
 ```
 
 ## Running the tests
-To execute the code. Open UI.R file on Rstudio and run. Select 01 april 2019 on input Date.
+To execute the code open UI.R file on Rstudio and run. Select 01 april 2019 on input Date.
 
 
 ## Note
@@ -38,7 +38,9 @@ If you want use this project with another anycast/Dual Stack server, edit nodes.
 
 
 AsNLists.csv contains information about Autonomous Systems.
+
 b.csv and bModal.csv contains information about the Root B mirrors.
+
 ip2asnv4 and ip2asnv6 contains informations about IP and ASN to IPv4 and IPv6, respectively. These data are obtained in https://iptoasn.com/
 
 
