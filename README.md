@@ -27,12 +27,12 @@ After download the project, replace the forceNetwork.js(networkD3\htmlwidgets)) 
 ```
 
 ## Running the tests
-To execute the code. Open UI.R file on Rstudio and run. Select 01 april 2018 on input Date.
+To execute the code. Open UI.R file on Rstudio and run. Select 01 april 2019 on input Date.
 
 
 ## Note
 
-This example use some RIPE Atlas traceroute measurements of Root Server as input data. There are only data from 01  April 2018 on github. To view anothers measurements, access www.catchmntview.com
+This example use some RIPE Atlas traceroute measurements of Root Server as input data. There are only data from 01  April 2019 on github. To view anothers measurements, access www.catchmntview.com
 
 If you want use this project with another anycast/Dual Stack server, edit nodes.R file. and organize the input data according data.json file.
 
